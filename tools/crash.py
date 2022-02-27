@@ -29,7 +29,7 @@ def CriticalError(message, error):
     {Fore.MAGENTA}NODE: {platform.node()}
     {Fore.MAGENTA}TIME: {ctime()}
     {Fore.RED}:=== Report:
-    {Fore.MAGENTA}Please report it here: https://github.com/NONPLAYT/smbomber/issues/new
+    {Fore.MAGENTA}Please report it here: https://github.com/BX-Team/SMBomber/issues/new
     {Fore.RESET}
     """)
     sys.exit(5)
