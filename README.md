@@ -1,3 +1,6 @@
+
+# If you want to contribute, create PR to old/1.2.11 branch!
+
 <div align="center">
   
 ░██████╗███╗░░░███╗██████╗░░█████╗░███╗░░░███╗██████╗░███████╗██████╗░
