@@ -76,5 +76,3 @@
 # 💰 Donate:
 
 Patreon: https://www.patreon.com/BXTeam
-
-MasterCard: 4048415039135328
