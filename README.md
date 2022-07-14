@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/github/license/BX-Team/SMBomber?style=for-the-badge" alt="License">
   </a>
 
-  <a href="https://discord.gg/Wwbv9EBujt">
-    <img src="https://img.shields.io/discord/523727566633435137.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Дискорд">
+  <a href="https://discord.gg/p7cxhw7E2M">
+    <img src="https://img.shields.io/discord/931595732752953375.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Discord">
   </a>
 
 
